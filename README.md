@@ -2,6 +2,9 @@
 
  <h1 align="center">Hi 👋, I'm David Nyaga</h1>
 <h3 align="center">A passionate full-stack developer</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner2.gif" alt="coding animation" width="600"/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyagatech&label=Profile%20views&color=0e75b6&style=flat" alt="nyagatech" /> </p>
 
